@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loader", "Loader.csproj", "{3AA644A7-6E00-16B1-EE95-455A15502912}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loader.Editor", "Loader.Editor.csproj", "{BBDC505A-5570-CDD7-2BFD-A8C7010BC789}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3AA644A7-6E00-16B1-EE95-455A15502912}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AA644A7-6E00-16B1-EE95-455A15502912}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AA644A7-6E00-16B1-EE95-455A15502912}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AA644A7-6E00-16B1-EE95-455A15502912}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBDC505A-5570-CDD7-2BFD-A8C7010BC789}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBDC505A-5570-CDD7-2BFD-A8C7010BC789}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBDC505A-5570-CDD7-2BFD-A8C7010BC789}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBDC505A-5570-CDD7-2BFD-A8C7010BC789}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

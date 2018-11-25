@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Loader/Assets/Loader.unity
+  isLoaded: 1
+  isActive: 1
